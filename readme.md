@@ -24,6 +24,8 @@ download the whole package and open in **Unity** on your computer
 * 0.0.1
     * CHANGE: The first proper release
 
+* 0.0.2
+    * CHANGE: add video to each station
 
 
 ## Meta
